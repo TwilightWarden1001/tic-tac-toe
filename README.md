@@ -27,6 +27,10 @@ This was my first React project, completed as part of learning modern frontend d
 - JavaScript (ES6+)
 - CSS
 
+## Prerequisites
+
+- Node.JS
+
 ## How to Run
 
 1. Clone the repository:
@@ -48,6 +52,8 @@ This was my first React project, completed as part of learning modern frontend d
    npm start
 ```
 
+It will now open your browser and you can play. Have fun!
+
 ## Future Improvements
 
 - Add styling and animations
@@ -57,4 +63,4 @@ This was my first React project, completed as part of learning modern frontend d
 
 ## Acknowledgments
 
-Built following the official React tutorial with additional bug fixes and features added independently.
+Built following the [official React tutorial](https://react.dev/learn/tutorial-tic-tac-toe) with additional bug fixes and features added independently.
