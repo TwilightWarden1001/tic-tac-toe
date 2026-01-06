@@ -48,8 +48,6 @@ This was my first React project, completed as part of learning modern frontend d
    npm start
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
-
 ## Future Improvements
 
 - Add styling and animations
